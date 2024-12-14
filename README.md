@@ -1,3 +1,6 @@
+# Leave A Star ⭐ If You Love This Project
+
+
 ![EASYCRAFT](https://cdn.modrinth.com/data/cached_images/0333a58935602a41f38aa62de2ff5a2b3572bbbe.jpeg)
 
 _Thank you to all the mod creators for making such fantastic mods that I could include in the modpack._
