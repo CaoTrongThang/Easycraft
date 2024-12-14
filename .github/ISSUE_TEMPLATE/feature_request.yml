@@ -11,6 +11,6 @@ body:
             label: Do I Really Need To Add Your Suggestion And Why?
             description: Tell me a detailed reason why i need to add your suggestion, your idea could affect many players, not just yourself
             placeholder: |
-                Tell me a detailed reason why i need to add your suggestion, your idea could affect many players, not just yourself
+                Tell me reasons why i need to add your suggestion, your idea could affect many players, not just yourself
         validations:
             required: true
