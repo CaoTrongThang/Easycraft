@@ -1,0 +1,16 @@
+name: Feature Request
+description: Suggest ideas for Easycraft
+labels: suggestion
+body:
+    -   type: textarea
+        attributes:
+            label: Your Suggestion
+            description: Tell me about your idea
+        validations:
+            required: true
+    -   type: textarea
+        attributes:
+            label: Do i really need to add your suggestion and why?
+            description: Tell me a detailed reason why i need to add your suggestion, your idea could affect many players, not just yourself
+        validations:
+            required: true
