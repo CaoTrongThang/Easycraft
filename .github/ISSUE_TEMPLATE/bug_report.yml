@@ -2,27 +2,6 @@ name: Bug Report Form
 description: Create a report to help us improve
 labels: bug
 body:
-    -   type: input
-        attributes:
-            label: Minecraft Version
-            placeholder: ex. 1.21.3
-        validations:
-            required: true
-    -   type: input
-        attributes:
-            label: Mod Version
-            placeholder: ex. 2.2.0-beta.4
-        validations:
-            required: true
-    -   type: dropdown
-        attributes:
-            label: Mod Loader
-            options:
-                - Any
-                - Fabric
-                - Forge
-                - NeoForge
-            default: 0
     -   type: textarea
         attributes:
             label: Describe the bug
@@ -38,10 +17,6 @@ body:
                 2. Click on '....'
                 3. Scroll down to '....'
                 4. See error
-    -   type: textarea
-        attributes:
-            label: Expected behaviour
-            description: A clear and concise description of what you expected to happen
     -   type: textarea
         attributes:
             label: Additional context
