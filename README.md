@@ -109,7 +109,7 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 <details>
 <summary>Secrets</summary>
   
-- Beds have a chance to explode, it can be reduced by having a friend sleeping right next to you, holding a flower, near a campfire, and the best is having a luck effect.
+- Beds have a chance to explode, having a luck effect negative the chance, luck effect can randomly give to players every 8 PM nighttime.
 - Mobs are stronger by the time you play but they can also get stronger when there's a mysterious lightning strike at them, the lightning gives them a buff and if they already had the buff, it'll increase the buff level.
 - Punching blocks while holding an item decreases 50% of damage dealt by that block.
 - Can craft oak planks by using 4 sticks.
@@ -117,5 +117,7 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 - many more...
   
 </details>
+
+
 
 
