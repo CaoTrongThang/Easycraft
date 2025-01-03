@@ -1,15 +1,12 @@
-# Leave A Star ⭐ If You Love This Project
-
-
 ![EASYCRAFT](https://cdn.modrinth.com/data/cached_images/0333a58935602a41f38aa62de2ff5a2b3572bbbe.jpeg)
 
-_Thank you to all the mod creators for making such fantastic mods that I could include in the modpack._
+_Thank you to all the mod creators for making such fantastic mods that I could include in the Easycraft's world._
 
 # Easycraft - _Where the difficulty starts from 0_
 
 _With you, this is how the world should be._
 
-**🎮 Survival Mechanics:**
+**🎮 Survival Mechanism:**
 - [Hypothermia](https://modrinth.com/mod/pyrofrost)
 - [Temperature](https://modrinth.com/mod/pyrofrost)
 - [Thirst](https://modrinth.com/mod/qWDh3G0p)
@@ -22,7 +19,6 @@ _With you, this is how the world should be._
 
 **🛡️Many Weapons, Armors, Dungeons, Dimensions, Enchantments and Crafting For You To Explore, Collect, More Fun For Your Journey:**
 - [Golems: Protect your base with Golems, it gets stronger when you feed it and give it gears, craft a golem controller to control it](https://modrinth.com/mod/advanced-golems)
-- [Spikes Can Also Protect Your House](https://modrinth.com/mod/spiky-spikes)
 - [Simple Storage Chest: Understand this and your life will be much easier](https://www.youtube.com/watch?v=cCa44Jik5Co)
 - [Farmer's Delight: Jesus this mod will make you feel like a real chef, really cool](https://www.youtube.com/watch?v=BY-c9gAiqMM)
 - 4 seasons, your seeds are also affected by the seasons
@@ -35,6 +31,7 @@ _With you, this is how the world should be._
 - [Knight Quests](https://www.youtube.com/watch?v=MLwhabsdQ-Y)
 - Nether Is Now More Like "HELL" Than Ever Before | [Better End](https://www.youtube.com/watch?v=4zVxJZnJ9iM) | [Nether Expansion](https://www.youtube.com/watch?v=UWS4FCsdcqw)
 - [Blood Moon](https://www.youtube.com/watch?v=XZfDCDeZoMk)
+- [Zenith: Brings a new system for weapons, armor,... to the Easycraft](https://www.youtube.com/watch?v=fK7JJbkwWiI)
 - and many, many more...
 
 **🌌 New Dimensions to Explore:**
@@ -87,7 +84,7 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 
 # Just 2 Things To Make Your Life Even Easier And More Enjoy Your Journey
 
-- First and foremost, Minecraft is a game of achievements where you can do anything you want. While there isn't a specific goal, players often focus on collecting a wide variety of items by exploring the worlds, killing all bosses, building a house, constructing machines, and progressing from manual to automated processes,... etc, just do what you like, my spear is already level 50 so I'm building an aquarium right now.
+- First and foremost, Minecraft is a game of achievements where you can do anything you want. While there isn't a specific goal, players often focus on collecting a wide variety of items by exploring the worlds, killing all bosses, building a house, constructing machines, and progressing from manual to automated processes,... etc, just do what you like, my spear is already level 50 so I'm building an aquarium and collecting all the fishes in the worlds right now.
  
 - And secondly, you can find almost **anything** you want in the item suggestions, try to search for anything you want and just **CLICK** on the item you want, It'll show many categories you can choose to see how to craft the item, how to find the item, how to repair the item,...
 
@@ -109,7 +106,7 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 <details>
 <summary>Secrets</summary>
   
-- Beds have a chance to explode, having a luck effect negative the chance, luck effect can randomly give to players every 8 PM nighttime.
+- Beds have a chance to explode, it can be reduced by having a friend sleeping right next to you, holding a flower, near a campfire, and the best is having a luck effect.
 - Mobs are stronger by the time you play but they can also get stronger when there's a mysterious lightning strike at them, the lightning gives them a buff and if they already had the buff, it'll increase the buff level.
 - Punching blocks while holding an item decreases 50% of damage dealt by that block.
 - Can craft oak planks by using 4 sticks.
@@ -117,7 +114,5 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 - many more...
   
 </details>
-
-
 
 
