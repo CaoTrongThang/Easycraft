@@ -20,7 +20,7 @@ _With you, this is how the world should be._
 **🛡️Many Weapons, Armors, Dungeons, Dimensions, Enchantments and Crafting For You To Explore, Collect, More Fun For Your Journey:**
 - [Golems: Protect your base with Golems, it gets stronger when you feed it and give it gears, craft a golem controller to control it](https://modrinth.com/mod/advanced-golems)
 - [Simple Storage Chest: Understand this and your life will be much easier](https://www.youtube.com/watch?v=cCa44Jik5Co)
-- [Farmer's Delight: Jesus this mod will make you feel like a real chef, really cool](https://www.youtube.com/watch?v=BY-c9gAiqMM)
+- [Farmer's Delight: Feel like a real chef](https://www.youtube.com/watch?v=BY-c9gAiqMM)
 - 4 seasons, your seeds are also affected by the seasons
 - [Croptopia: Grow and harvest many crops (affected by Fabric Seasons)](https://www.curseforge.com/minecraft/mc-mods/croptopia)
 - [Little Mecharnt](https://www.youtube.com/watch?v=KrHbuDfDiLU)
