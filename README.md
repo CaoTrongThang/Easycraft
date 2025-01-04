@@ -71,7 +71,7 @@ Watch this [Video](https://www.youtube.com/watch?v=Ql4ANOdnIls) to optimize your
 - RAM: 16 GB (8gb is good for the modpack)
 - Storage: 5GB (SSD recommended)
 
-**💻 Recommended PC:**
+**💻 Recommended PC Requirements:**
 
 - CPU: i5 12400f
 - GPU: GTX 3070 / RX 6700 XT
