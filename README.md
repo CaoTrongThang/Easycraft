@@ -96,6 +96,7 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 - Craft a Pocket GPS to show the Minimap
 - Press "L" to show all the achievements, pretty useful
 - Press "+" to add a waypoint, press "Y" to open waypoint list
+- Press "P" to ping
 - You can reset your Golem's home radius or behaviors,... by making a "Golem Controller", this is kind of complicated, hold the "Golem Controller" in your hand, **SHIFT-RIGHT CLICK, DON'T CLICK TO YOUR GOLEM**, every time you **SHIFT-RIGHT CLICK** it'll change the mode of the "Golem Controller", change to **Home** then **LEFT-CLICK TO THE GOLEM YOU WANNA CHANGE**, after that **RIGHT-CLICK** to the block you want the Golem will patrol around...
 - Staff of Suppression, stop mobs from spawning 64 blocks around
 - Hostile mobs can't break iron bars, iron blocks, diamond blocks,...
