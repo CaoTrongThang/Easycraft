@@ -49,7 +49,6 @@ _With you, this is how the world should be._
 - [The Graveyard](https://www.youtube.com/watch?v=ybIY21G2JJc&t=648s)
 - [Ice And Fire, Many Cool Mobs But Lets Just See A Video About Dragons](https://www.youtube.com/watch?v=M5kn-n6E4Wk)
 - Horseman, Hard To Summon And Also Very Strong - [First Step](https://github.com/Cursee-Development/Sleepy-Hollows/wiki/Introduction-&-First-Steps) | [Second Step](https://github.com/Cursee-Development/Sleepy-Hollows/wiki/Allright!-Let's-finish-it!)
-- [Doom, Tons Of Bosses In Nether And End, Just Can't Find It All](https://www.youtube.com/watch?v=Dv-UEEqoT_g&t=686s)
 - [Aquamarine Bosses](https://www.youtube.com/watch?v=FtlXkbPRLdo)
 - [Dungeon Now Loading, You'll Be Easily Lost In The Dungeon](https://www.youtube.com/shorts/kt6bTc2tcGQ)
 - [Twilight Forest Bosses](https://www.youtube.com/watch?v=lDM31iQXyuo)
