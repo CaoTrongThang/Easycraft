@@ -1,4 +1,4 @@
-![easycraft banner](https://cdn.modrinth.com/data/cached_images/534b9e2c5cb6d85891bee17fd11f020bcb282569.png)
+![easycraft banner](https://cdn.modrinth.com/data/cached_images/cad7c90e10058b313b0f722029c9f1cc3d6faafa.png)
 
 _Thank you to all the mod creators for making such fantastic mods that I could include in the Easycraft's world._
 
