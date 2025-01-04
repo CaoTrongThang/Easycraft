@@ -10,7 +10,7 @@ _With you, this is how the world should be._
 - [Hypothermia](https://modrinth.com/mod/pyrofrost)
 - [Temperature](https://modrinth.com/mod/pyrofrost)
 - [Thirst](https://modrinth.com/mod/qWDh3G0p)
-- [Better survival mechanics: your hands aren't tough, don't fall to water, bed explosions...](https://modrinth.com/mod/welcome-to-my-world)
+- [Better survival challenges: your hands aren't tough, don't fall to water, bed explosions...](https://modrinth.com/mod/welcome-to-my-world)
 - [Sanity, don't lose it, you don't wanna feel it, don't stay in darkness for too long, don't eat bad foods,...](https://nevermore.wiki.gg/wiki/Manic)
 - Mobs Difficulty
 - Gears Level
@@ -105,7 +105,7 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 <details>
 <summary>Secrets</summary>
   
-- Beds have a chance to explode, it can be reduced by having a friend sleeping right next to you, holding a flower, near a campfire, and the best is having a luck effect.
+- Beds have a chance to explode, having luck effect negatives the explosion chance.
 - Mobs are stronger by the time you play but they can also get stronger when there's a mysterious lightning strike at them, the lightning gives them a buff and if they already had the buff, it'll increase the buff level.
 - Punching blocks while holding an item decreases 50% of damage dealt by that block.
 - Can craft oak planks by using 4 sticks.
