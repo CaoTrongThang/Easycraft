@@ -12,6 +12,8 @@ _With you, this is how the world should be._
 - [Thirst](https://modrinth.com/mod/qWDh3G0p)
 - [Better survival challenges: your hands aren't tough, don't fall to water, bed explosions...](https://modrinth.com/mod/welcome-to-my-world)
 - [Sanity, don't lose it, you don't wanna feel it, don't stay in darkness for too long, don't eat bad foods,...](https://nevermore.wiki.gg/wiki/Manic)
+- [Better Campfires](https://modrinth.com/mod/better-campfires)
+- [Hardcore Torches](https://modrinth.com/mod/hardcore-torches)
 - Mobs Difficulty
 - Gears Level
 - any many more...
