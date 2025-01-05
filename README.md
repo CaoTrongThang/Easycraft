@@ -33,7 +33,9 @@ _With you, this is how the world should be. That's why you're summoned here_
 - [Knight Quests](https://www.youtube.com/watch?v=MLwhabsdQ-Y)
 - Nether Is Now More Like "HELL" Than Ever Before | [Better End](https://www.youtube.com/watch?v=4zVxJZnJ9iM) | [Nether Expansion](https://www.youtube.com/watch?v=UWS4FCsdcqw)
 - [Blood Moon](https://www.youtube.com/watch?v=XZfDCDeZoMk)
-- [Zenith: Brings a new system for weapons, armor,... to the Easycraft](https://www.youtube.com/watch?v=fK7JJbkwWiI)
+- [Zenith: Brings a new system for weapons, armors,... to the Easycraft](https://www.youtube.com/watch?v=fK7JJbkwWiI)
+- [Artifacts](https://modrinth.com/mod/artifacts/gallery)
+- [Beneath the Wetlands](https://www.youtube.com/watch?v=z0j8H5Puzkk)
 - and many, many more...
 
 **🌌 New Dimensions to Explore:**
