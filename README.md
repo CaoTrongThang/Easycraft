@@ -4,7 +4,7 @@ _Thank you to all the mod creators for making such fantastic mods that I could i
 
 # Easycraft - _Where the difficulty starts from 0_
 
-_With you, this is how the world should be._
+_With you, this is how the world should be. That's why you're summoned here_
 
 **🎮 Survival Mechanism:**
 - [Hypothermia](https://modrinth.com/mod/pyrofrost)
