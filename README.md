@@ -2,7 +2,7 @@
 
 _Thank you to all the mod creators for making such fantastic mods that I could include in the Easycraft's world._
 
-# Easycraft - _Where the difficulty starts from 0_
+# Easycraft - Where you're given food when you first join
 
 _With you, this is how the world should be. That's why you're summoned here_
 
@@ -119,3 +119,4 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 </details>
 
 
+100 Downloads: 6/1/2025
