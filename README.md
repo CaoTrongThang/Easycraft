@@ -2,7 +2,7 @@
 
 _Thank you to all the mod creators for making such fantastic mods that I could include in the Easycraft's world._
 
-# Easycraft - Where you're given food when you first join
+# Easycraft - The New World
 
 _With you, this is how the world should be. That's why you're summoned here_
 
