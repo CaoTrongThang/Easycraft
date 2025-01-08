@@ -58,7 +58,7 @@ _With you, this is how the world should be. That's why you're summoned here_
 - [Marium's Soulslike Weaponry](https://www.youtube.com/watch?v=usw-Q27ndMk)
 - [The Graveyard](https://www.youtube.com/watch?v=ybIY21G2JJc&t=648s)
 - [Ice And Fire, Many Cool Mobs But Lets Just See A Video About Dragons](https://www.youtube.com/watch?v=M5kn-n6E4Wk)
-- Horseman - [First Step](https://github.com/Cursee-Development/Sleepy-Hollows/wiki/Introduction-&-First-Steps) | [Second Step](https://github.com/Cursee-Development/Sleepy-Hollows/wiki/Allright!-Let's-finish-it!)
+- [Horseman](https://github.com/Cursee-Development/Sleepy-Hollows/wiki/Introduction-&-First-Steps)
 - [Aquamarine Bosses](https://www.youtube.com/watch?v=FtlXkbPRLdo)
 - [Dungeon Now Loading, You'll Be Easily Lost In The Dungeon](https://www.youtube.com/shorts/kt6bTc2tcGQ)
 - [Twilight Forest Bosses](https://www.youtube.com/watch?v=lDM31iQXyuo)
@@ -103,6 +103,8 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 **Useful informations:**
 - You can pick up blocks, creatures,... (Shift + Right Click)
 - Craft a Pocket GPS to show the Minimap
+- [Craft a nature's compass to locate biomes](https://modrinth.com/mod/natures-compass)
+- [Craft an explorer's compass to locate structures](https://modrinth.com/mod/explorers-compass)
 - Press "L" to show all the achievements, pretty useful
 - Press "+" to add a waypoint, press "Y" to open waypoint list
 - Press "P" to ping
