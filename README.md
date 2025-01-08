@@ -2,6 +2,11 @@
 
 _Thank you to all the mod creators for making such fantastic mods that I could include in the Easycraft's world._
 
+<a href="https://modrinth.com/modpack/easycraft"><img src="https://cdn.modrinth.com/data/cached_images/bcafdf1030479a0170992820a9b0ab88eab4e221.png"></a>
+<a href="https://curseforge.com/minecraft/modpacks/easycraftofficial"><img src="https://cdn.modrinth.com/data/cached_images/6b3a57948af1405deda42a8f2fc5e7de184b88e5.png"></a>
+<a href="https://discord.gg/Fg4cSDt"><img src="https://cdn.modrinth.com/data/cached_images/db964632b3c95e13e7ff3ba45113af5c16459ceb.png"></a>
+<a href="https://github.com/CaoTrongThang/Easycraft"><img src="https://cdn.modrinth.com/data/cached_images/aa649b305f35767e809403e8b392299f32586cf6_0.webp"></a>
+
 # Easycraft - The New World
 
 _With you, this is how the world should be. That's why you're summoned here_
@@ -48,6 +53,7 @@ _With you, this is how the world should be. That's why you're summoned here_
 - ...
 
 **🔥 Besides Ender Dragon, There're Also Many Strong Bosses To Challenge In Easycraft, Kill All The Bosses If You Can!:**
+- Final Adversaries - [Boss 1](https://www.youtube.com/watch?v=tUBtzQrKuAQ), [Boss 2](https://www.youtube.com/watch?v=NI1OI3mTXog), [Boss 3](https://www.youtube.com/watch?v=HJzuJzBBTns)
 - [Bosses of Mass Destruction](https://www.youtube.com/watch?v=zLiqKC2EaaU)
 - [Marium's Soulslike Weaponry](https://www.youtube.com/watch?v=usw-Q27ndMk)
 - [The Graveyard](https://www.youtube.com/watch?v=ybIY21G2JJc&t=648s)
@@ -119,4 +125,4 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 </details>
 
 
-100 Downloads: 6/1/2025
+100 Downloads (MODRINTH): 6/1/2025
