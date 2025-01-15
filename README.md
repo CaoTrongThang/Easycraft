@@ -11,6 +11,8 @@ _Thank you to all the mod creators for making such fantastic mods that I could i
 
 _With you, this is how the world should be. That's why you're summoned here_
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Lt0r-wzhI80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **🎮 Survival Mechanism:**
 - [Hypothermia](https://modrinth.com/mod/pyrofrost)
 - [Temperature](https://modrinth.com/mod/pyrofrost)
@@ -21,7 +23,8 @@ _With you, this is how the world should be. That's why you're summoned here_
 - [Hardcore Torches](https://modrinth.com/mod/hardcore-torches)
 - Mobs Difficulty
 - Gears Level
-- any many more...
+  
+**many more...**
 
 
 **🛡️Many Weapons, Armors, Dungeons, Dimensions, Enchantments and Crafting For You To Explore, Collect, More Fun For Your Journey:**
@@ -31,17 +34,20 @@ _With you, this is how the world should be. That's why you're summoned here_
 - 4 seasons, your seeds are also affected by the seasons
 - [Croptopia: Grow and harvest many crops (affected by Fabric Seasons)](https://www.curseforge.com/minecraft/mc-mods/croptopia)
 - [Little Mecharnt](https://www.youtube.com/watch?v=KrHbuDfDiLU)
-- [Spawner+: You can craft spawners for farming](https://modrinth.com/mod/spawners_plus)
+- [Just Hammers](https://modrinth.com/mod/just-hammers)
+- [Harvest Scythes](https://modrinth.com/mod/harvest-scythes)
 - [You can craft planes](https://modrinth.com/mod/immersive-aircraft)
 - [Waystones](https://modrinth.com/mod/fwaystones)
 - [MC Dungeons Enchantments](https://modrinth.com/mod/mc-dungeons-enchanting)
 - [Knight Quests](https://www.youtube.com/watch?v=MLwhabsdQ-Y)
-- Nether Is Now More Like "HELL" Than Ever Before | [Better End](https://www.youtube.com/watch?v=4zVxJZnJ9iM) | [Nether Expansion](https://www.youtube.com/watch?v=UWS4FCsdcqw)
+- Nether Is Now More Like "HELL" Than Ever Before | [Better End](https://www.youtube.com/watch?v=4zVxJZnJ9iM) | [Nether Expansion](https://www.youtube.com/watch?v=UWS4FCsdcqw) | [Eldritch End](https://www.curseforge.com/minecraft/mc-mods/eldritch-end)
 - [Blood Moon](https://www.youtube.com/watch?v=XZfDCDeZoMk)
 - [Zenith: Brings a new system for weapons, armors,... to the Easycraft](https://www.youtube.com/watch?v=fK7JJbkwWiI)
 - [Artifacts](https://modrinth.com/mod/artifacts/gallery)
 - [Beneath the Wetlands](https://www.youtube.com/watch?v=z0j8H5Puzkk)
-- and many, many more...
+- [Enchanted: Witchcraft: It's about magic](https://www.youtube.com/watch?v=OwQyeYXio0U)
+  
+**and many, many more...**
 
 **🌌 New Dimensions to Explore:**
 - [Eden Ring](https://www.youtube.com/watch?v=CzajxoTLfys)
@@ -50,7 +56,7 @@ _With you, this is how the world should be. That's why you're summoned here_
 - [Ad Astra: Fly to space](https://www.youtube.com/shorts/kM-PySE1MPM)
 - [Better Nether](https://www.youtube.com/shorts/b4hWNTJDMuU)
 - [Better End](https://www.youtube.com/watch?v=4zVxJZnJ9iM)
-- ...
+- [Minecells](https://www.youtube.com/watch?v=T5L9RRwRd48)
 
 **🔥 Besides Ender Dragon, There're Also Many Strong Bosses To Challenge In Easycraft, Kill All The Bosses If You Can!:**
 - Final Adversaries - [Boss 1](https://www.youtube.com/watch?v=tUBtzQrKuAQ), [Boss 2](https://www.youtube.com/watch?v=NI1OI3mTXog), [Boss 3](https://www.youtube.com/watch?v=HJzuJzBBTns)
@@ -74,9 +80,20 @@ _footages:_ **🔧 Better with Patrix Resource Packs & Photon Shaders**
 **_**🎥 FPS Boost Tips**_**
 Watch this [Video](https://www.youtube.com/watch?v=Ql4ANOdnIls) to optimize your settings for better FPS. Also, check out Lossless Scaling on Steam to boost performance.
 
+Known Issue: 
+- Lagging with entities: Go into mod config > Paxi > Resourcepacks > remove "Blues_Better_Monsters_v0.10", "FreshAnimations_v1.9.2", and "FA+All_Extesions-v1.4" 
+- Crash without crash log: maybe Google or ChatGPT about "Increase Virtual Memory/Pagefile (Windows)"
+
+<details>
+<summary>JVM Arguments</summary>
+-Xms10G -Xmx10G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true
+</details>
+
+
+
 **🖥️ Minimum PC Requirements:**
 
-- CPU: i5 9400f
+- CPU: i5 10400f
 - GPU: GTX 1060 / RX 580
 - RAM: 16 GB (8gb is good for the modpack)
 - Storage: 5GB (SSD recommended)
@@ -101,8 +118,10 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 
 
 **Useful informations:**
+- **Can craft oak planks by using 4 sticks.**
+- **Press "K" to show the starting missions, your key might different**
 - You can pick up blocks, creatures,... (Shift + Right Click)
-- Craft a Pocket GPS to show the Minimap
+- Craft a GPS to show Minimap
 - [Craft a nature's compass to locate biomes](https://modrinth.com/mod/natures-compass)
 - [Craft an explorer's compass to locate structures](https://modrinth.com/mod/explorers-compass)
 - Press "L" to show all the achievements, pretty useful
@@ -112,19 +131,18 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 - Staff of Suppression, stop mobs from spawning 64 blocks around
 - Hostile mobs can't break iron bars, iron blocks, diamond blocks,...
 
-
-
 <details>
 <summary>Secrets</summary>
   
 - Beds have a chance to explode, having luck effect negatives the explosion chance.
 - Mobs are stronger by the time you play but they can also get stronger when there's a mysterious lightning strike at them, the lightning gives them a buff and if they already had the buff, it'll increase the buff level.
 - Punching blocks while holding an item decreases 50% of damage dealt by that block.
-- Can craft oak planks by using 4 sticks.
 - There's sometimes a minion hiding below the sand, which be noticed by some sand particles, breaking the sand block and the minion will show up to give you some items.
 - many more...
+- Holding an umbrella and you won't get struck by lightning
   
 </details>
 
 
-100 Downloads (MODRINTH): 6/1/2025
+- 100 Downloads Modrinth: 6/1/2025
+- 100 Downloads Curgeforge: 14/1/2025
