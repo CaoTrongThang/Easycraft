@@ -11,21 +11,24 @@ _Thank you to all the mod creators for making such fantastic mods that I could i
 
 _With you, this is how the world should be. That's why you're summoned here_
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Lt0r-wzhI80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+_This page only contains a little information about the modpack._
+
 **🎮 Survival Mechanism:**
 - [Hypothermia](https://modrinth.com/mod/pyrofrost)
 - [Temperature](https://modrinth.com/mod/pyrofrost)
 - [Thirst](https://modrinth.com/mod/qWDh3G0p)
 - [Better survival challenges: your hands aren't tough, don't fall to water,...](https://modrinth.com/mod/welcome-to-my-world)
-- [Sanity, don't lose it, you don't wanna feel it, don't stay in darkness for too long, don't eat bad foods,...](https://nevermore.wiki.gg/wiki/Manic)
 - [Better Campfires](https://modrinth.com/mod/better-campfires)
-- [Hardcore Torches](https://modrinth.com/mod/hardcore-torches)
+- [Realistic Torches](https://modrinth.com/mod/hardcore-torches)
 - Mobs Difficulty
 - Gears Level
   
 **many more...**
 
 
-**🛡️Many Weapons, Armors, Dungeons, Dimensions, Enchantments and Crafting For You To Explore, Collect, More Fun For Your Journey:**
+**🛡️Many Weapons, Armors, Dungeons, Dimensions, Enchantments and Crafting For You To Explore and Collect:**
 - [Golems: Protect your base with Golems, it gets stronger when you feed it and give it gears, craft a golem controller to control it](https://modrinth.com/mod/advanced-golems)
 - [Simple Storage Chest: Understand this and your life will be much easier](https://www.youtube.com/watch?v=cCa44Jik5Co)
 - [Farmer's Delight: Feel like a real chef](https://www.youtube.com/watch?v=BY-c9gAiqMM)
@@ -44,6 +47,8 @@ _With you, this is how the world should be. That's why you're summoned here_
 - [Artifacts](https://modrinth.com/mod/artifacts/gallery)
 - [Beneath the Wetlands](https://www.youtube.com/watch?v=z0j8H5Puzkk)
 - [Enchanted: Witchcraft: It's about magic](https://www.youtube.com/watch?v=OwQyeYXio0U)
+- [A Tunnel Digger](https://modrinth.com/mod/immersive-machinery) 
+- [Enjoy the Zelda of The Wild](https://www.youtube.com/watch?v=FxRIhrYeJYE)
   
 **and many, many more...**
 
@@ -59,7 +64,7 @@ _With you, this is how the world should be. That's why you're summoned here_
 **🔥 Besides Ender Dragon, There're Also Many Strong Bosses To Challenge In Easycraft, Kill All The Bosses If You Can!:**
 - Final Adversaries - [Boss 1](https://www.youtube.com/watch?v=tUBtzQrKuAQ), [Boss 2](https://www.youtube.com/watch?v=NI1OI3mTXog), [Boss 3](https://www.youtube.com/watch?v=HJzuJzBBTns)
 - [Bosses of Mass Destruction](https://www.youtube.com/watch?v=zLiqKC2EaaU)
-- [Marium's Soulslike Weaponry](https://www.youtube.com/watch?v=usw-Q27ndMk)
+- Marium's Soulslike Weaponry - [Wiki](https://github.com/mariumbacchus/Soulslike-Weaponry/wiki/Bosses) - [Find The Bosses](https://www.youtube.com/watch?v=usw-Q27ndMk)
 - [The Graveyard](https://www.youtube.com/watch?v=ybIY21G2JJc&t=648s)
 - [Ice And Fire, Many Cool Mobs But Lets Just See A Video About Dragons](https://www.youtube.com/watch?v=M5kn-n6E4Wk)
 - [Horseman](https://github.com/Cursee-Development/Sleepy-Hollows/wiki/Introduction-&-First-Steps)
@@ -79,12 +84,12 @@ _footages:_ **🔧 Better with Patrix Resource Packs & Photon Shaders**
 Watch this [Video](https://www.youtube.com/watch?v=Ql4ANOdnIls) to optimize your settings for better FPS. Also, check out Lossless Scaling on Steam to boost performance.
 
 Known Issue: 
-- Lagging with entities: Go into mod config > Paxi > Resourcepacks > remove "Blues_Better_Monsters_v0.10", "FreshAnimations_v1.9.2", and "FA+All_Extesions-v1.4" 
+- Lagging with entities: Go into mod config > Paxi > Resourcepacks > Remove "StayTrue", and "FA+All_Extesions-v1.4" 
 - Crash without crash log: maybe Google or ChatGPT about "Increase Virtual Memory/Pagefile (Windows)"
 
 <details>
 <summary>JVM Arguments</summary>
--Xms10G -Xmx10G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true
+-Xms6G -Xmx8G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true
 </details>
 
 
@@ -127,10 +132,11 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 - Press "P" to ping
 - You can reset your Golem's home radius or behaviors,... by making a "Golem Controller", this is kind of complicated, hold the "Golem Controller" in your hand, **SHIFT-RIGHT CLICK, DON'T CLICK TO YOUR GOLEM**, every time you **SHIFT-RIGHT CLICK** it'll change the mode of the "Golem Controller", change to **Home** then **LEFT-CLICK TO THE GOLEM YOU WANNA CHANGE**, after that **RIGHT-CLICK** to the block you want the Golem will patrol around...
 - Staff of Suppression, stop mobs from spawning 64 blocks around
-- Hostile mobs can't break iron bars, iron blocks, diamond blocks,...
+- Tougher Iron Bars and Tougher Iron Blocks can stop mobs from breaking
 
 <details>
 <summary>Secrets</summary>
+  
 - Mobs are stronger by the time you play but they can also get stronger when there's a mysterious lightning strike at them, the lightning gives them a buff and if they already had the buff, it'll increase the buff level.
   
 - Punching blocks while holding an item decreases 50% of damage dealt by that block.
