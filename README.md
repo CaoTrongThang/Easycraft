@@ -11,8 +11,6 @@ _Thank you to all the mod creators for making such fantastic mods that I could i
 
 _With you, this is how the world should be. That's why you're summoned here_
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Lt0r-wzhI80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 _This page only contains a little information about the modpack._
 
 **🎮 Survival Mechanism:**
