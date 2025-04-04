@@ -11,7 +11,7 @@ _Thank you to all the mod creators for making such fantastic mods that I could i
 
 _With you, this is how the world should be. That's why you're summoned here_
 
-_**This page only contains a little information about the modpack. This mod is the combination of Don't Starve Together, Factorio,...**_ 
+_**This page only contains a little information about the modpack. This modpack is the combination of Don't Starve Together, Factorio,…**_ 
 
 **🎮 Survival Mechanism:**
 - [Hypothermia](https://modrinth.com/mod/pyrofrost)
@@ -20,7 +20,7 @@ _**This page only contains a little information about the modpack. This mod is t
 - [Better survival challenges: your hands aren't tough, don't fall to water,...](https://modrinth.com/mod/welcome-to-my-world)
 - [Better Campfires](https://modrinth.com/mod/better-campfires)
 - [Realistic Torches](https://modrinth.com/mod/hardcore-torches)
-- Mobs Difficulty
+- [Mobs Difficulty](https://modrinth.com/mod/welcome-to-my-world)
 - Gears Level
 - [Tamed Mob's Leveling System: Look at your tamed mob and press M, it'll show a leveling menu](https://modrinth.com/mod/welcome-to-my-world/version/3.3.1)
 - [Hardcore Revive Mode: Revive your teammate in hardcore](https://www.curseforge.com/minecraft/mc-mods/hardcore-revive-mod)
@@ -32,9 +32,10 @@ _**This page only contains a little information about the modpack. This mod is t
 - 4 seasons, your seeds are also affected by the seasons
 - [Croptopia: Grow and harvest many crops (affected by Fabric Seasons)](https://www.curseforge.com/minecraft/mc-mods/croptopia)
 - [Little Mecharnt](https://www.youtube.com/watch?v=KrHbuDfDiLU)
-- [Just Hammers](https://modrinth.com/mod/just-hammers)
+- [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Harvest Scythes](https://modrinth.com/mod/harvest-scythes)
 - [You can craft planes](https://modrinth.com/mod/immersive-aircraft)
+- [You can also craft ships](https://modrinth.com/mod/small-ships)
 - [Waystones](https://modrinth.com/mod/fwaystones)
 - [MC Dungeons Enchantments](https://modrinth.com/mod/mc-dungeons-enchanting)
 - [Knight Quests](https://www.youtube.com/watch?v=MLwhabsdQ-Y)
@@ -140,3 +141,4 @@ _DM me if you have a good video and want me to put it in the modpack's descripti
 
 - 100 Downloads Modrinth: 6/1/2025
 - 100 Downloads Curgeforge: 14/1/2025
+- 1000 Downloads Curseforge: 6/3/2025
